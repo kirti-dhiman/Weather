@@ -37,7 +37,7 @@ Here is a service which will extract the weather of a particular city in celsius
 			- created_at (datetime) - Current date and time
 
 ### To fetch Weather Information
-- Navigate to url http://localhost/weather-service/Weather/WeatherForecast.php?date=2021-08-02&city=Amsterdam
+- Navigate to url <serverRoot>/Weather/WeatherForecast.php?date=<date>&city=<city>
 	- For adding city and date you have to change the query string parameters.
     - when you hit the url city and temperature got added in the database.
     - there are validations added as well
