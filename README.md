@@ -67,7 +67,7 @@ There are two methods to install code file on the php server
  
 ## Usage Instructions ##
  
-- Navigate to url http://<SERVER_HOST>/Weather/WeatherForecast.php?date=<DATE>&city=<CITY>
+- Navigate to url http://<SERVER_HOST>/api/weather/WeatherForecast.php?date=<DATE>&city=<CITY>
  
  - At the place of <DATE>, use any date in format: 12-03-2021 (d-m-Y format).
  - At the place of <CITY>, use any city name you needed like: Amsterdem
