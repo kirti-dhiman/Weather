@@ -18,7 +18,7 @@ There are two methods to install code file on the php server
 
     - Open git bash terminal over root directory of your project
 
-    - Run the command: `git clone https://github.com/kirti-dhiman/weather-service.git`
+    - Run the command: `git clone https://github.com/kirti-dhiman/Weather.git`
 
     - Afer successfull completion, run the command: `composer update`
 
@@ -26,7 +26,7 @@ There are two methods to install code file on the php server
 
 - By downloading the Code files:
 
-    - Alternately, you may download the zip file of the project from https://github.com/kirti-dhiman/weather-service and extract it over folder `C:\xampp\htdocs\` or `C:\wamp\www\` which will create the project in a folder.
+    - Alternately, you may download the zip file of the project from https://github.com/kirti-dhiman/weather and extract it over folder `C:\xampp\htdocs\` or `C:\wamp\www\` which will create the project in a folder.
 
     - Open any Command Prompt terminal
 
