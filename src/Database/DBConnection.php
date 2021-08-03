@@ -1,4 +1,4 @@
-<?php namespace App\Database;
+<?php namespace System\Database;
  
 class DBConnection 
 {
